@@ -4,6 +4,8 @@ Thay thế block UX id `lightbox-sizechart` bằng block chứa size-chart của
 
 Nội dung element: <a href="#lightboxsizechart" target="_self" class="button secondary is-xsmall custom-sizeguide"><span>Size Guide</span></a>[lightbox width="800px" id="lightboxsizechart"][block id="lightbox-sizechart"][/lightbox]
 
+Demo: https://greencity.woocodex.com/product/jesus-is-my-god-all-over-printed-shirts-221220/
+
 */
 
 /* Custom CSS */
