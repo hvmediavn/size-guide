@@ -1,0 +1,20 @@
+/*
+Tạo element paragraph, đặt class là `float-position-element` trong mục Advanced của element. 
+Thay thế block UX id `lightbox-sizechart` bằng block chứa size-chart của bạn.
+
+Nội dung element: <a href="#lightboxsizechart" target="_self" class="button secondary is-xsmall custom-sizeguide"><span>Size Guide</span></a>[lightbox width="800px" id="lightboxsizechart"][block id="lightbox-sizechart"][/lightbox]
+
+*/
+
+/* Custom CSS */
+.wcpa_form_outer .wcpa_row {
+    position: relative;
+}
+
+.float-position-element {
+    position: absolute;
+    right: 0;
+    z-index: 9;
+    top: 5px;
+}
+
